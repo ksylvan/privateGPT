@@ -12,7 +12,7 @@ python-multipart = "^0.0.10"
 injector = "^0.22.0"
 pyyaml = "^6.0.2"
 watchdog = "^4.0.1"
-transformers = "^4.44.2"
+transformers = "^4.50.0"
 docx2txt = "^0.8"
 cryptography = "^3.1"
 # LlamaIndex core libs
